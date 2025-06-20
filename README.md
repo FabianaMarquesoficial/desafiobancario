@@ -52,7 +52,8 @@ A aplicação é uma excelente forma de praticar:
 2. Clone este repositório:
    ```bash
    git clone https://github.com/FabianaMarquesoficial/desafiopythongit
-   cd desafiopython
+   cd desafiopythongit
+
 📁 Estrutura do Código
 menu() – Exibe o menu principal de opções
 
